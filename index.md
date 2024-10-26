@@ -10,7 +10,7 @@ As a seasoned application security professional with over [number] years of expe
 
 ## Experience
 
-Senior Security Engineer - Prosper Marketplace {Oct 2022-Present}
+### Senior Security Engineer - Prosper Marketplace {Oct 2022-Present}
 Prosper Marketplace, Inc. is a pioneer in peer-to-peer lending marketplace, introducing a new approach to personal finance by connecting borrowers directly with investors founded in 2005 in the United States
 Lead Application security programs for security team including.
 Secure SDLC controls and design.
@@ -22,8 +22,8 @@ Trained developers and Security Champions in Application security.
 Threat model Products and features.
 Conduct Application security due-diligence and controls for PCI-DSS .
  Design and manage Incident Response , Write playbooks for AppSec. 
-
- Senior Security Engineer - Razorpay {2021-Present}
+---
+ ### Senior Security Engineer - Razorpay {2021-Present}
 Razorpay is a Fintech unicorn startup that offers payments solution in India that allows businesses to accept, process and disburse payments with its product suite.
 Lead Application security programs for security team including.
 Secure SDLC controls and design.
@@ -46,8 +46,8 @@ Designed Security standards and guidelines for Application security.
 Trained developers and Security Champions in Application security.
 Co-authored “Building a SAST program at Razorpay’s scale”
 
-
-Application Security Specialist -SAP {2015-2021}
+---
+### Application Security Specialist -SAP {2015-2021}
 SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg. It develops enterprise software to manage business operations and customer relations.
 Develop & research, security testing tools (Mobile AST tools, DASTER, API tester) . 
 Integrate in-house tools and third-party security tools to central pipeline, enable shift left for security in SDLC. 
@@ -74,11 +74,7 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+
 
 Here is a horizontal rule
 
