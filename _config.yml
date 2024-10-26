@@ -1,7 +1,7 @@
 title: Researcher
 url: "https://google.com"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
