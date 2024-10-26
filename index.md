@@ -6,7 +6,7 @@ layout: default
 
 <!--<img class="profile-picture" src="sherlock.jpg">-->
 
-As a seasoned application security professional with over [number] years of experience, I've honed my expertise in safeguarding software applications across diverse environments. My deep understanding of the software development lifecycle (SDLC) allows me to effectively integrate security practices at every stage, from requirements gathering to deployment. I'm well-versed in a wide range of security tools and methodologies, including static and dynamic code analysis, penetration testing, threat modeling, and secure coding practices. With a strong focus on cloud security, I've successfully addressed vulnerabilities and risks inherent in cloud-native architectures. My passion for staying abreast of the latest security threats and best practices ensures that I'm always equipped to protect organizations from emerging risks. I'm committed to fostering a culture of security awareness and collaboration within development teams, driving the adoption of secure development practices. My areas of expertise include OWASP Top 10 vulnerabilities, secure coding standards, threat intelligence, incident response, PCI-DSS compliance, Cloudflare security, WAF technologies (including tuning), semgrep and Fortify scanning, DAST(burp/zap) , Tenable vulnerability management, SIEM implementation and integration, and raising the overall software security posture of organizations.
+> As a seasoned application security professional with over 9 years of experience, I've honed my expertise in safeguarding software applications across diverse environments. My deep understanding of the software development lifecycle (SDLC) allows me to effectively integrate security practices at every stage, from requirements gathering to deployment. I'm well-versed in a wide range of security tools and methodologies, including static and dynamic code analysis, penetration testing, threat modeling, and secure coding practices. With a strong focus on cloud security, I've successfully addressed vulnerabilities and risks inherent in cloud-native architectures. My passion for staying abreast of the latest security threats and best practices ensures that I'm always equipped to protect organizations from emerging risks. I'm committed to fostering a culture of security awareness and collaboration within development teams, driving the adoption of secure development practices. My areas of expertise include OWASP Top 10 vulnerabilities, secure coding standards, threat intelligence, incident response, PCI-DSS compliance, Cloudflare security, WAF technologies (including tuning), semgrep and Fortify scanning, DAST(burp/zap) , Tenable vulnerability management, SIEM implementation and integration, and raising the overall software security posture of organizations.
 
 ## Experience
 
@@ -72,13 +72,6 @@ B.Tech | 7.28 | 2009 | 2013 | Computer Science & Engineering | Ernakulam , India
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
-
-
-
-Here is a horizontal rule
-
----
 
 Here is a blockquote
 
