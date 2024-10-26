@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://google.com"
-baseurl: "/researcher"
+title: Portfolio
+url: "https://lib-rxi.github.io/"
+baseurl: "/portfolio"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
