@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://google.com"
 baseurl: "/researcher"
 remote_theme: ankitsultana/researcher
 
@@ -9,8 +9,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/google"
+footer_text: "Portfolio for li"
 
 sass:
     style: compressed
